@@ -1,0 +1,21 @@
+# --- R session & history ---
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+
+# --- RStudio user state ---
+.Rproj.user/
+*.Rproj.user
+
+# --- Generated outputs (regenerate by running the R scripts) ---
+outputs/*
+!outputs/.gitkeep
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
+
+# --- Local-only setup guide (not part of the public portfolio) ---
+SETUP_GUIDE.md
