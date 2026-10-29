@@ -34,6 +34,12 @@ ASRQ_SOST20131_Portfolio/
 │   ├── 01_reproducible_workflow.R    # first script: a minimal workflow
 │   ├── 02_simpsons_700_regression.R  # Simpson's paradox in regression
 │   └── 03_dag_adjustment.R           # DAGs & adjustment sets with dagitty
+├── week5/                            # Week 5: regression modelling (source + data)
+│   ├── Regression/                   # simple linear regression
+│   ├── MultipleReg/                  # multiple regression
+│   ├── LogReg/                       # logistic regression
+│   ├── Dummy/                        # dummy variables
+│   └── data/                         # teaching datasets used by the scripts
 └── outputs/                          # figures & tables (regenerated, gitignored)
 ```
 
